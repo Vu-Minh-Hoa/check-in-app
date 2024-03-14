@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GDGHaNoiCheckin</string>
+    <string name="content_role">Vai trò :%s</string>
+    <string name="text_complete">Tạo QR thành công</string>
+    <string name="text_loading">Đang thực hiện tạo QR</string>
+    <string name="text_email_existed">Tài khoản đã tồn tại</string>
+    <string name="devfest_popup_welcome_text">Chào mừng đến với\n DEVFEST 2023</string>
+</resources>
